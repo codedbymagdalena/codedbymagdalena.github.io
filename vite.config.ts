@@ -6,7 +6,7 @@ import path from 'node:path'
 
 const siteConfiguration = {
   description: "Magdalena's Y2K-inspired creative developer portfolio.",
-  robots: { index: false },
+  robots: { index: true },
 }
 
 
