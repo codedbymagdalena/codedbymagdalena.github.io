@@ -1,7 +1,7 @@
 import { type FormEvent, useEffect, useState } from "react"
 
 // Free key from web3forms.com (sent to your email). Safe to be public.
-const WEB3FORMS_ACCESS_KEY = "YOUR_ACCESS_KEY_HERE"
+const WEB3FORMS_ACCESS_KEY = "2a65ace8-5dc6-45bf-9f85-a5b0289eb680"
 
 const slides = [
   {
