@@ -5,7 +5,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const siteConfiguration = {
-  title: "Magdalena Mata | UX & Frontend Developer",
+  title: "Magdalena Mata | Developer & PM",
   description:
     "Y2K-inspired portfolio of Magdalena Mata: UX design, frontend development, and creative tech projects, told through an interactive digital camera.",
   robots: { index: true },
