@@ -5,8 +5,13 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const siteConfiguration = {
-  description: "Magdalena's Y2K-inspired creative developer portfolio.",
+  title: "Magdalena Mata | UX & Frontend Developer",
+  description:
+    "Y2K-inspired portfolio of Magdalena Mata: UX design, frontend development, and creative tech projects, told through an interactive digital camera.",
   robots: { index: true },
+  openGraph: {
+    image: "https://codedbymagdalena.github.io/assets/camera-portrait.webp",
+  },
 }
 
 
